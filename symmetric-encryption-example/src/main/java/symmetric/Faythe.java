@@ -1,6 +1,6 @@
 package symmetric;
 
-public class Mallory {
+public class Faythe {
 
 	private byte[] aliceSecretKey;
 
